@@ -8,6 +8,16 @@ The FFIEC Lookup Tool was developed to improve the speed and consistency of cens
 
 The project was originally created after experiencing limitations and outages in the traditional lookup process and has since evolved into a standalone workflow tool for tract research and lending-support activities.
 
+## Screenshots
+
+### Main Application
+
+![Main Window](screenshots/main-window.png)
+
+### Lookup Example
+
+![Lookup Result](screenshots/lookup-result.png)
+
 ## Features
 
 ### Single Address Lookup
@@ -90,6 +100,22 @@ Place the required data files in the same directory as `ffiec_tool.py`.
 * Improved executable packaging
 * Dataset update automation
 * Additional reporting and export options
+
+## Version
+
+Current Version: 0.3 (Development Build)
+
+### Current Focus
+- Improving batch Excel processing
+- Better error handling
+- Packaging improvements
+
+### Stable Features
+- Single address lookup
+- Census tract identification
+- FFIEC income classification lookup
+- Confidence scoring
+- Local logging
 
 ## Documentation Note
 
