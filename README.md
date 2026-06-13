@@ -32,3 +32,26 @@ Expected file names:
 CensusTractList2026.xlsx
 CensusFlatFile2025.csv
 2025DistressedorUnderservedTracts.xls
+
+
+## Current Status
+
+### Working Features
+- Single-address lookup
+- Census tract identification
+- FFIEC income level lookup
+- MFI percentage lookup
+- Distressed/underserved tract identification
+- Confidence scoring
+- Local logging
+
+### Known Issues
+- Batch Excel processing is currently under development.
+- Output workbook generation is not consistently being created in the packaged executable version.
+- Additional error handling and debugging are planned for a future release.
+
+### Planned Improvements
+- Improve batch processing reliability
+- Better user-facing error messages
+- Automatic data validation
+- Improved packaging and deployment
