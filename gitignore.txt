@@ -1,0 +1,9 @@
+*.exe
+*.xls
+*.xlsx
+*.csv
+lookup_log.csv
+dist/
+build/
+__pycache__/
+*.pyc
